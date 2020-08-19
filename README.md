@@ -44,4 +44,4 @@ Ques 2. Is the risk of the yen expected to increase or decrease?
 ![Prediction and  True Values](Images/5.png)
 
 Ques : Does this model perform better or worse on out-of-sample data compared to in-sample data?  
-* Model performs better on In-sample data based on RMSE score.
+* Model performs better on out of sample data based on RMSE score.
